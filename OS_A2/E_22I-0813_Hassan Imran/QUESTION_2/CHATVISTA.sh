@@ -1,0 +1,5 @@
+g++ -o CLIENT CLIENT.cpp
+g++ -o GROUP GROUP.cpp
+g++ -o READ_MEMORY READ_MEMORY.cpp
+g++ -o SERVER SERVER.cpp
+./SERVER
